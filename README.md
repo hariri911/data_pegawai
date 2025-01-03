@@ -12,3 +12,5 @@ Password: admin
 [ update 30-12-24 ] penambahan bootstrap dasboard admin / tabel
 
 [ UPDATE 02-01-25 ] Penambahan bootstrap pada menu Log in
+
+[ UPDATE 03-01-25 ] Perubahan Index menggunakan Bootsrap & FontAwesome
