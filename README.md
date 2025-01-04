@@ -14,3 +14,5 @@ Password: admin
 [ UPDATE 02-01-25 ] Penambahan bootstrap pada menu Log in
 
 [ UPDATE 03-01-25 ] Perubahan Index menggunakan Bootsrap & FontAwesome
+
+[ IPDATE 03-01-25 ] perubahan Form Tambah Data menggunakan bootsrap
